@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="find_your_image">Find your image!</string>
+    <string name="action_search">Search</string>
+    <string name="empty_api_result">No results, try changing your search.</string>
+    <string name="empty_text_search">Enter your search.</string>
+    <string name="api_failure">Oops an error occurred</string>
+</resources>
